@@ -4,7 +4,7 @@
 
 # Tamiya Androino 1.0
 
-### __Tamiya Androino 1.0__ is a simple Arduino project to control a DC motor over bluetooth. You can simply control your own Tamiya to go forward, backward and stop, by using Android phone. Watch the video below to see its action, then follow the instructions below to build your own Tamiya Androino!
+### __Tamiya Androino 1.0__ is a simple Arduino project to control a DC motor over bluetooth. You can simply control your own Tamiya to go forward, backward and stop, by using Android phone. Watch the video below ([click here](https://www.youtube.com/watch?v=NeP0aTYB5qU)) to see its action, then follow the instructions below to build your own Tamiya Androino!
 
 #
 
