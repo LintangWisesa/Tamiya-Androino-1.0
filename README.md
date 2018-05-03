@@ -24,11 +24,15 @@ To build this project, you need the following items:
 - Arduino IDE ([download here](https://www.arduino.cc/en/Main/Software))
 - Blueterm Android App ([download here](https://play.google.com/store/apps/details?id=es.pymasde.blueterm&hl=en) or you can easily get its __.apk__ that I've attached in this repo)
 
+#
+
 ### **2. Schematics** :wrench::hammer:
 
 Gather your parts then follow the schematics below.
 
 ![Tamiya Androino 1.0 schematics](https://raw.githubusercontent.com/LintangWisesa/Tamiya-Androino-1.0/master/TamiyaAndroino.png)
+
+#
 
 ### **3. Sketch** :clipboard:
 
@@ -84,6 +88,8 @@ void loop() {
     }
 }
 ```
+
+#
 
 ### **4. Have Fun!** :joy:
 - After uploading process is done, reconnect TX & RX from Bluetooth module to RX & TX on Arduino board then restart it.
