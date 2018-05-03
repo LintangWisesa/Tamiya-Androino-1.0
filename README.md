@@ -28,7 +28,7 @@ To build this project, you need the following items:
 
 Gather your parts then follow the schematics below.
 
-![Tamiya Androino 1.0 schematics](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
+![Tamiya Androino 1.0 schematics](https://raw.githubusercontent.com/LintangWisesa/Tamiya-Androino-1.0/master/TamiyaAndroino.png)
 
 ### **3. Sketch** :clipboard:
 
