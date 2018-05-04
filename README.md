@@ -22,6 +22,7 @@ To build this project, you need the following items:
 - 1 set 4WD Tamiya, just use its chassis, gears & tires.
 - some jumper wires
 - Arduino IDE ([download here](https://www.arduino.cc/en/Main/Software))
+- Lin Bluetooth SPP Android App (I've attached in this repo), or
 - Blueterm Android App ([download here](https://play.google.com/store/apps/details?id=es.pymasde.blueterm&hl=en) or you can easily get its __.apk__ that I've attached in this repo)
 
 #
@@ -93,7 +94,7 @@ void loop() {
 
 ### **4. Have Fun!** :joy:
 - After uploading process is done, reconnect TX & RX from Bluetooth module to RX & TX on Arduino board then restart it.
-- Open Blueterm App, then connect to your Bluetooth module. If the Bluetooth module asks for a password, by default it's __'1234'__ (except you have changed it!).
+- Open LIN Bluetooth SPP App or Blueterm App, then connect to your Bluetooth module. If the Bluetooth module asks for a password, by default it's __'1234'__ (except you have changed it!).
 - Here are the simple rules in Tamiya Androino 1.0 project:
   - It will __stop__ when we send __'0'__
   - It will **go backward** when we send __'1'__
