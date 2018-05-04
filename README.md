@@ -22,7 +22,7 @@ To build this project, you need the following items:
 - 1 set 4WD Tamiya, just use its chassis, gears & tires.
 - some jumper wires
 - Arduino IDE ([download here](https://www.arduino.cc/en/Main/Software))
-- Lin Bluetooth SPP Android App (I've attached in this repo), or
+- Lin Bluetooth SPP Android App (I've attached its __.apk__ in this repo), or
 - Blueterm Android App ([download here](https://play.google.com/store/apps/details?id=es.pymasde.blueterm&hl=en) or you can easily get its __.apk__ that I've attached in this repo)
 
 #
